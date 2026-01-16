@@ -1,4 +1,4 @@
-# Rupee Transfer — Secure Fund Transfer API
+# Wallet Funds Transfer Service
 
 [![Java](https://img.shields.io/badge/Java-17-orange?logo=java)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.0-brightgreen?logo=spring)](https://spring.io/projects/spring-boot)
@@ -9,7 +9,7 @@
 
 ##  Overview
 
-Rupee Transfer is a high-performance, Payment API that implements banking-grade transaction management with ACID compliance. Built with Spring Boot 3 and Java 17, it demonstrates modern backend development practices including distributed transactions, optimistic locking, and Spring security.
+Wallet Funds Transfer Service is a high-performance, Payment API that implements banking-grade transaction management with ACID compliance. Built with Spring Boot 3 and Java 17, it demonstrates modern backend development practices including distributed transactions, optimistic locking, and Spring security.
 
 ## Features
 
